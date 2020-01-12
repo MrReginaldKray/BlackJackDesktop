@@ -1,0 +1,14 @@
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\bin\Debug\BlackJackDesktop.exe.config
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\bin\Debug\BlackJackDesktop.exe
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\bin\Debug\BlackJackDesktop.pdb
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.csprojAssemblyReference.cache
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\App.g.cs
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop_MarkupCompile.cache
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop_MarkupCompile.lref
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\MainWindow.baml
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.g.resources
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.Properties.Resources.resources
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.csproj.GenerateResource.cache
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.exe
+C:\Users\Reginald Kray\Downloads\BlackJackDesktop\BlackJackDesktop\obj\Debug\BlackJackDesktop.pdb
